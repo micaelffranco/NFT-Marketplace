@@ -8,11 +8,11 @@ Solidity
 
 
 With this project I reviewed:
-    NextJs
-    Connecting to Metamask
-    Solidity
-    Ethers.js library
-    ERC721
-    Creating NFTs
-    Transfer NFTs ownership
+    NextJs, 
+    Connecting to Metamask, 
+    Solidity, 
+    Ethers.js library, 
+    ERC721, 
+    Creating NFTs, 
+    Transfer NFTs ownership and 
     IPFS
